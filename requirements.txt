@@ -1,0 +1,17 @@
+torch
+boto3
+spellpy
+openai==0.28.0
+reportlab
+streamlit
+pandas
+matplotlib
+openpyxl
+python-dotenv
+gtts
+fpdf
+langchain
+langchain-experimental
+tabulate
+
+
